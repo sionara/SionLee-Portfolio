@@ -1,3 +1,15 @@
+## HOW TO RUN THIS PROJECT
+
+this directory contains the react app and node api server.
+To start both in your local machine, open two terminals to start the react app web server and api server by going into the "API" directory and running "npm start".
+
+From the root directory, open a new terminal for the server. then run:
+```
+cd api
+npm start
+```
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
